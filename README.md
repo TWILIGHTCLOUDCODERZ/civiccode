@@ -45,6 +45,7 @@ Application is built using java,html,css3,and data stored in shared point.
 <li>**webview:-**</li>
 <br>
  &emsp;&emsp; Built using Html,css3,java,json,bootstrap, hosted in Azure web apps.
+ 
 ![webapp](https://user-images.githubusercontent.com/101945531/200179218-ec7a1328-bd13-4500-a3e4-909bb58f4f24.JPG)
 
 <li>**Backend:-**</li>
@@ -58,18 +59,22 @@ Application is built using java,html,css3,and data stored in shared point.
 <li>**PowerBi:-**</li>
 <br>
 &emsp;&emsp;Big data analytics - Data of the patient unstructured record and insurance claim data analyzed through azure data factory and segregated into a structured data later stored into Azure blob container at the end visualized for better understanding which solves repeated calculation works.
+
 ![flow](https://user-images.githubusercontent.com/101945531/200179205-8aaf1952-7753-4ff7-8469-a9b38001b3fa.JPG)
 
 <li>**Powervirtual Agent :-**</li>
 <br>
 &emsp;&emsp;Respond rapidly to your user and employee needs—at scale—using intelligent conversational.
+
 ![powerflow mail](https://user-images.githubusercontent.com/101945531/200179210-86814090-5309-43f6-a8f3-1df736c70e52.JPG)
 
 <li>**Azure Data Factory :-**</li>
 <br>
 &emsp;&emsp;Transform faster with intelligent intent-driven mapping that automates copy activities.
 Extract/load/Transform copy,move data and drift columns which is used for data segregation.
+
  ![powerbicivicode](https://user-images.githubusercontent.com/101945531/200179191-6ea69ab9-b5b5-4154-a7e1-c72ded0dfe09.JPG)
+ 
 ## Accomplishments that we're proud of
 
 &emsp;&emsp;Learn't about AI feature and Data Analytics.
